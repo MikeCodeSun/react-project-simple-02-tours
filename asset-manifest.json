@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-project-simple-02-tours/static/css/main.657c713c.chunk.css",
+    "main.js": "/react-project-simple-02-tours/static/js/main.b4acc06d.chunk.js",
+    "main.js.map": "/react-project-simple-02-tours/static/js/main.b4acc06d.chunk.js.map",
+    "runtime-main.js": "/react-project-simple-02-tours/static/js/runtime-main.e9e4c398.js",
+    "runtime-main.js.map": "/react-project-simple-02-tours/static/js/runtime-main.e9e4c398.js.map",
+    "static/js/2.72b6b1da.chunk.js": "/react-project-simple-02-tours/static/js/2.72b6b1da.chunk.js",
+    "static/js/2.72b6b1da.chunk.js.map": "/react-project-simple-02-tours/static/js/2.72b6b1da.chunk.js.map",
+    "static/js/3.86f83264.chunk.js": "/react-project-simple-02-tours/static/js/3.86f83264.chunk.js",
+    "static/js/3.86f83264.chunk.js.map": "/react-project-simple-02-tours/static/js/3.86f83264.chunk.js.map",
+    "index.html": "/react-project-simple-02-tours/index.html",
+    "static/css/main.657c713c.chunk.css.map": "/react-project-simple-02-tours/static/css/main.657c713c.chunk.css.map",
+    "static/js/2.72b6b1da.chunk.js.LICENSE.txt": "/react-project-simple-02-tours/static/js/2.72b6b1da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9e4c398.js",
+    "static/js/2.72b6b1da.chunk.js",
+    "static/css/main.657c713c.chunk.css",
+    "static/js/main.b4acc06d.chunk.js"
+  ]
+}
